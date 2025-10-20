@@ -1,0 +1,9 @@
+﻿  InterestCalculator.cpp
+C:\Users\sells\OneDrive - SNHU\CS 210 Code Files\CS210ProjectTwo\InterestCalculator.cpp(29,19): warning C4018: '<': signed/unsigned mismatch
+C:\Users\sells\OneDrive - SNHU\CS 210 Code Files\CS210ProjectTwo\InterestCalculator.cpp(35,19): warning C4018: '<': signed/unsigned mismatch
+C:\Users\sells\OneDrive - SNHU\CS 210 Code Files\CS210ProjectTwo\InterestCalculator.cpp(45,19): warning C4018: '<': signed/unsigned mismatch
+  Main.cpp
+  Menu.cpp
+C:\Users\sells\OneDrive - SNHU\CS 210 Code Files\CS210ProjectTwo\Menu.cpp(23,16): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  CS210ProjectTwo.vcxproj -> C:\Users\sells\OneDrive - SNHU\CS 210 Code Files\CS210ProjectTwo\x64\Debug\CS210ProjectTwo.exe
