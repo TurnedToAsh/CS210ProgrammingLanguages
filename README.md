@@ -3,17 +3,21 @@
 **Project Summary: What problem did this solve?**
   
   The program was designed for a fabricated grocery store, The Corner Grocer, that needed to track how often each item is sold throughout the day. It reads a text file named ProduceList.txt, which contains a list of purchased items. The program displays a menu, allowing the user to output the frequency of purchased items in three ways:
+  
     1. The frquency of user-specified item.
     2. A list of all purchased items and each items' purchase counts.
     3. A list of all purchased items displayed as a histogram with asterisks.
+    
   A backup data file is created, named frequency.dat, containing all item counts. This helps the business optimize their invenetory management based on sales data.
   
 **What did you do particularly well?**
   
   I followed best practices for maintaining readable and efficient code. I followed naming conventions, added comments for clarification and purpose, and created small modular functions to improve code clarity.
   I created two custom classes to separate objects and improve modularity of the code.
+  
     * The ItemTracker class handles files and frequency data.
     * The Menu class receives input from the user and input validation.
+    
   I used std::map to track item frequencies by forming key-value pairs. This allowed for faster and cleaner iterations through code.
   I created a friendly-user experience with a distinct visual menu as well as input validation that gives clear instruction the user.
   
